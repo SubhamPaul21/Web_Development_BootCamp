@@ -3,8 +3,8 @@
 ## CSS Properties -->
 
  - ### Display
-	1. **Block** - The element generates a block-level box, which occupies the whole width of the page but adjusts according to the height of the element. We can change the width of this display element. e.g. <h1>-<h6>,<p>
-	2. **Inline** - The element generates an inline-level box, which occupies width and height as much as required by the element. We can't change the width of this display element. e.g. <span>,<img>
+	1. **Block** - The element generates a block-level box, which occupies the whole width of the page but adjusts according to the height of the element. We can change the width of this display element. e.g. h1-h6,p
+	2. **Inline** - The element generates an inline-level box, which occupies width and height as much as required by the element. We can't change the width of this display element. e.g. span,img
 	3. **Inline-Block** - A block box, which itself is flowed as a single inline box, similar to a replaced element. The inside of an inline-block is formatted as a block box, and the box itself is formatted as an inline box. We can change the width of this display element.
  
  - ### Position

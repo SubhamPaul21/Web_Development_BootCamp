@@ -13,4 +13,6 @@
 	3. **Fixed** - This position CSS property fixes the element to the top,right,bottom or left property and other elements can scroll below that.
 	
 	
-[Personal Details WebPage](https://subhampaul21.github.io/PersonalWebsite){:target="_blank" rel="noopener"}
+[Personal Details WebPage](https://subhampaul21.github.io/PersonalWebsite){:target="_blank"}
+
+<a href="https://subhampaul21.github.io/PersonalWebsite" target="_blank">Personal Details WebPage</a>

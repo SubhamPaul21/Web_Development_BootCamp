@@ -11,3 +11,6 @@
 	1. **Relative** - This position CSS property sets how an element is positioned in a document relative to it's original position. The top, right, bottom, and left properties determine the final location of positioned elements. The element shifts position but doesn't leave the heirarchy and keeps it's initial position intact with itself.
 	2. **Absolute** - This position CSS property sets how an element is positioned in a document relative to it's parent's position which needs to be relative. The top, right, bottom, and left properties determine the final location of positioned elements. The element shifts position and leaves the heirarchy and it's not yet intact to it's initial position.
 	3. **Fixed** - This position CSS property fixes the element to the top,right,bottom or left property and other elements can scroll below that.
+	
+	
+[Personal Details WebPage] (https://subhampaul21.github.io/PersonalWebsite/)
